@@ -1,0 +1,10 @@
+{
+  "name": "ui-ngx-i18",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Spearhead",
+  "description": "UI Localization Component",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
